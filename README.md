@@ -6,8 +6,9 @@
 [This video](https://drive.google.com/file/d/1lhUX9Kd1Zo1xy6cbSnOCuX7YCj3rscxO/view?usp=sharing) shows all features of the application.
 
 ## Render images
-
- 
+![](/RenderImages/render2.png)
+![](/RenderImages/render3.png)
+![](/RenderImages/render4.png)
  
  
  
